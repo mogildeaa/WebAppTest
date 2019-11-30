@@ -11,13 +11,13 @@ Full fledged web application implementation: Login, RestServices, Security, Auth
 - Logger (slf4j package)
 - Hibernate
 - MySQL connection 
-- H2 database (in-memory database connexion) -> **Not shown in the final version of the project!!!**
+- H2 database (in-memory database connexion) -> **Not shown in the final version of the project**
 - JSP (javax jstl-api)
 - Tomcat 
 - Jasper
 - Bootstrap 
 - HTML/CSS
-- Freemarker (.ftl) -> **Replaced with basic .jsp!!!**
+- Freemarker (.ftl) -> **Replaced with basic .jsp**
 
 # Security implementation
 - Login functionality
