@@ -1,5 +1,5 @@
 # WebAppTest
-Full fledged web application implementation: Login, RestServices, Security, Authentication, jSesion, Password Encryption, Web UI, made with SpringBoot and IntelliJ/Maven!
+Full fledged web application implementation: Login, RestServices, Security, Authentication, jSesion, Password Encryption, Web UI, made with SpringBoot and IntelliJ/Maven
 
 ---
 # Technologies:
